@@ -1,0 +1,5 @@
+{
+  "name": "SoulForge - UE5 Architect",
+  "description": "Unreal Engine 5 魂类游戏核心代码生成器与架构助手 (支持多版本/多模型)",
+  "requestFramePermissions": []
+}
